@@ -7,6 +7,7 @@ GMYCO Company seeks to analyze its workforce distribution to identify patterns r
 
 -POWERBI(Visualization)
 
+
 ## Dashboards
 
 <img width="572" alt="Dashboard 1" src="https://github.com/user-attachments/assets/79758360-27ee-474f-bc9b-4a7eab3536d4" />
