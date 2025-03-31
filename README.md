@@ -1,6 +1,7 @@
 # HR-EMPLOYEE-DISTRIBUTION-ANALYSIS
 ## Problem Statement
 GMYCO Company seeks to analyze its workforce distribution to identify patterns related to employee demographics, location, tenure, and department-specific trends. The goal is to understand employee retention, diversity, and hiring practices to make data-driven decisions that enhance workforce planning, improve inclusion, and optimize organizational efficiency. The company requires an in-depth evaluation of employee distribution across gender, age groups, race, and remote versus in-office work to address potential disparities and improve HR policies effectively.
+
 ## Tool used
 
 -SQL(Data cleaningand and analysis) 
